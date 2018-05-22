@@ -1,5 +1,5 @@
 # MyMegabusTicketsToExcelSpreadSheet
-![Excel Spreadsheet](Images\FinishedProduct.png)
+![Excel Spreadsheet](/Images/FinishedProduct.png)
 
 A JavaScript script that takes the HTML of the Megabus's ['My Tickets'](https://us.megabus.com/account-management/my-tickets) and prints out the raw data of the tickets to paste into excel.
 
@@ -9,13 +9,13 @@ A JavaScript script that takes the HTML of the Megabus's ['My Tickets'](https://
 1. Create an Excel Spreadsheet
 
 2. Create different Exel Tabs for tickets (optional)
-![Sheet Tabs Format](Images\SheetTabsFormat.png)
+![Sheet Tabs Format](/Images/SheetTabsFormat.png)
 
 3. Format the labels for the info given like this:
-![Label Format](Images\LabelFormat.png)
+![Label Format](/Images/LabelFormat.png)
 
 4. Go to [Megabus's My Tickets](https://us.megabus.com/account-management/my-tickets) page and right click to access 'Inspect'
-![Inspect Page](Images\Inspect.png)
+![Inspect Page](/Images/Inspect.png)
 
 5. Go to the console tab in 'Inspect', and paste the JavaScript code into the console. Press Enter.
 
