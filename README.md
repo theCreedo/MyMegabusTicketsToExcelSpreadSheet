@@ -18,7 +18,7 @@ A JavaScript script that takes the HTML of the Megabus's ['My Tickets'](https://
 
 4. Go to [Megabus's My Tickets](https://us.megabus.com/account-management/my-tickets) page and right click to access 'Inspect'
 
-![Inspect Page](/Images/Inspect.png)
+![Inspect Page](/Images/InspectHTML.png)
 
 5. Go to the console tab in 'Inspect', and paste the JavaScript code into the console. Press Enter.
 
