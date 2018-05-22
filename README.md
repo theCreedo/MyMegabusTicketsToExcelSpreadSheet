@@ -35,7 +35,7 @@ These tickets are compiled into a variable that contains all the tickets.
 
 I've made it so that you can also get a string of the 'Current Tickets' and 'Past Tickets' so you can keep track of previous expenditures or take note of how much you've paid currently.
 
-NOTE: This does not keep track of the batches you bookes, nor how much is spent. It can only get the value of the tickets.
+NOTE: This does not keep track of the batches you bookes, nor how much is spent on booking fees or total. All it does is scrape the webpage for ticket data.
 
 ... will add more description later... hopefully
 

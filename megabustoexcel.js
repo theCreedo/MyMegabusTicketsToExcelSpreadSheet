@@ -11,10 +11,8 @@ for (var i=0; i < ticketsSections.length; i++) {
 	part = ''
 	if (count == 0) {
 		console.log('Current Tickets\n------------------------');
-		// total += 'Current Tickets\n------------------------';
 	} else {
 		console.log('\nPast Tickets\n------------------------');
-		// total += '\nPast Tickets\n------------------------';
 	}
 	ticketElems = ticketsSections[i].getElementsByClassName('ticket--basket');
 	for (var j=0; j < ticketElems.length; j++) {
@@ -71,10 +69,13 @@ for (var i=0; i < ticketsSections.length; i++) {
 
 	}
 	count++;
+
+	// Prints out first current tickets, and then past tickets
 	console.log(part);
 	total += part;
 }
 console.log('============');
+// Prints out all tickets - current and past tickets.
 console.log(total);
 
 
